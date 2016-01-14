@@ -1,0 +1,30 @@
+1/2 1/2
+Here is z = x+y : 1/1
+Here is z = x-y : 0
+Here is z = x*y : 1/4
+Here is z = x/y : 1/1
+
+-5/3 2/3
+Here is z = x+y : -1/1
+Here is z = x-y : -7/3
+Here is z = x*y : -10/9
+Here is z = x/y : -5/2
+
+-3/2 0
+Here is z = x+y : -3/2
+Here is z = x-y : -3/2
+Here is z = x*y : 0
+Here is z = x/y : undefined
+
+12/23 3/5
+Here is z = x+y : 129/115
+Here is z = x-y : -9/115
+Here is z = x*y : 36/115
+Here is z = x/y : 20/23
+
+1/5 -1/5
+Here is z = x+y : 0
+Here is z = x-y : 2/5
+Here is z = x*y : -1/25
+Here is z = x/y : -1/1
+
